@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Evangelos Spyromilios
+- 👀 I’m interested in C, Python, Rust, Docker, autonomous vehicles and Computer Vision.
+- 🌱 I’m currently learning programming at 42 Wolfsburg !
+- 💞️ I’m looking to collaborate on Jetson Nano, 42 Projects :) 
+- 📫 How to reach me on Discord: Evangelos | espyromi#1585
