@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evangelos Spyromilios
-- 👀 I’m interested in C, Rust and Substrate.
+- 👀 I’m interested in C and Rust.
 - 🌱 I’m currently learning programming at 42 Wolfsburg.
-- 💞️ I’m looking to collaborate on Kusama and Blockchain Development. 
+- 💞️ I’m looking to collaborate on Automotive tech. 
 - 📫 Reach me on Discord: Evangelos | espyromi#1585
