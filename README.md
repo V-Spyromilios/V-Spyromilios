@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Evangelos Spyromilios
-- 👀 I’m interested in C and Rust.
+- 👀 I’m interested in C and C++.
 - 🌱 I’m currently learning programming at 42 Wolfsburg.
-- 💞️ I’m looking to collaborate on Automotive tech. 
+- 💞️ I’m  interested in Autonomous Vehicles technology. 
 - 📫 Reach me on Discord: Evangelos | espyromi#1585
