@@ -20,7 +20,7 @@ iOS Developer under Development
 | 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 13  | [CPP Module 03] (../../../Cpp)          | ✅      |   | 
 | 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 14  | [CPP Module 04] (../../../Cpp)          | ✅      |   |  
 | 5   | [so_long](../../../so_long)                | ✅     |   | 15  | [CPP Module 05] (../../../Cpp)          | ✅      |   |   
-| 5   | [minitalk](../../../minitalk)              | ✅     |   | 16  | [CPP Module 06] (../../../Cpp)          | ✅      |   |     
+| 5   | [Pipex](../../../Pipex_MiniShell)          | ✅     |   | 16  | [CPP Module 06] (../../../Cpp)          | ✅      |   |     
 | 6   | [push_swap](../../../push_swap)            | ✅     |   | 17  | [CPP Module 07] (../../../Cpp)          | ✅      |   |                          
 | 7   | [minishell](../../../minishell)            | 🛠️     |   | 18  | [CPP Module 08] (../../../Cpp)          | ✅      |   |                             
 | 8   | [philosophers](../../../Philosophers)      | ✅     |   | 19  | NetPractice                             | ✅      |   |                      
