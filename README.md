@@ -45,7 +45,7 @@ Description
 <br />
 
 ## 📊 My Stats :
-![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Spyromilios&hide=contribs,prs&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Spyromilios&hide=contribs,prs&show_icons=true&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=V-Spyromilios&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -60,8 +60,9 @@ Description
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/linux--v2.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"  title="Swift" alt="C" width="40" height="40"/>&nbsp;
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+         
 <div>
 
 <br />
