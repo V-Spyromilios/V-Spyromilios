@@ -1,6 +1,6 @@
 
 ##  :man_technologist: Mission:
-iOS Developer under Development
+### iOS Developer under Development
 
 <br />
 
@@ -43,7 +43,7 @@ iOS Developer under Development
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Spyromilios&layout=compact&theme=dark)](https://github.com/V-Spyromilios/github-readme-stats)  
 <br />
 
-## :hammer_and_wrench: Languages and Tools :
+## :checkered_flag: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg"  title="Swift" alt="C" width="40" height="40"/>&nbsp;
