@@ -15,17 +15,17 @@ iOS Developer under Development
 ## 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   | No  | Project                                 | Status |   |
 | :-: | :----------------------------------------- | :----: | - | :-: | :---------------------------------------| :----: | - | 
-| 1   | [Libft](../../../libft)                    | ✅     |   | 11  | [CPP Module 01] (../../../Cpp)          | ✅      |   |  
-| 2   | [Born2beroot](../../../born2beroot)        | ✅     |   | 12  | [CPP Module 02] (../../../Cpp)          | ✅      |   |
-| 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 13  | [CPP Module 03] (../../../Cpp)          | ✅      |   | 
-| 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 14  | [CPP Module 04] (../../../Cpp)          | ✅      |   |  
-| 5   | [so_long](../../../so_long)                | ✅     |   | 15  | [CPP Module 05] (../../../Cpp)          | ✅      |   |   
-| 5   | [Pipex](../../../Pipex_MiniShell)          | ✅     |   | 16  | [CPP Module 06] (../../../Cpp)          | ✅      |   |     
-| 6   | [push_swap](../../../push_swap)            | ✅     |   | 17  | [CPP Module 07] (../../../Cpp)          | ✅      |   |                          
-| 7   | [minishell](../../../minishell)            | 🛠️     |   | 18  | [CPP Module 08] (../../../Cpp)          | ✅      |   |                             
-| 8   | [philosophers](../../../Philosophers)      | ✅     |   | 19  | NetPractice                             | ✅      |   |                      
-| 9   | cub3d                                      | 🛠️     |   |     |                                         |         |   |                            
-| 10  | [CPP Module 00] (../../../Cpp)             | 🔒     |   |     |                                         |         |   |                                   
+| 1   | [Libft](../../../libft)                    | ✅     |   | 11  | [CPP Module 01](/Cpp/Module_01)                | ✅      |   |  
+| 2   | [Born2beroot]                              | ✅     |   | 12  | [CPP Module 02](../../../Cpp/Module_02)          | ✅      |   |
+| 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 13  | [CPP Module 03](../../../Cpp/Module_03)          | ✅      |   | 
+| 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 14  | [CPP Module 04](../../../Cpp/Module_04)          | ✅      |   |  
+| 5   | [so_long](../../../so_long)                | ✅     |   | 15  | [CPP Module 05](../../../Cpp/Module_05)          | ✅      |   |   
+| 5   | [Pipex](../../../Pipex_MiniShell)          | ✅     |   | 16  | [CPP Module 06](../../../Cpp/Module_06)          | ✅      |   |     
+| 6   | [push_swap](../../../push_swap)            | ✅     |   | 17  | [CPP Module 07](../../../Cpp/Module_07)          | ✅      |   |                   
+| 7   | [minishell](../../../Minishell)            | ✅     |   | 18  | [CPP Module 08](../../../Cpp/Module_08)          | ✅      |   |                   
+| 8   | [philosophers](../../../Philosophers)      | ✅     |   | 19  | NetPractice                                      | 🛠️      |   |         
+| 9   | Cub3d                                      | 🛠️     |   |     |                                                  |         |   |                   
+| 10  | [CPP Module 00] (../../../Cpp_Module_00)   | ✅     |   |     |                                                  |         |   |                                   
 
 <br />
 
