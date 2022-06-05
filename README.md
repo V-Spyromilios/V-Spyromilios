@@ -13,10 +13,10 @@ iOS Developer under Development
 <br />
 
 ## 📚 42 Curriculum Progress
-| No  | Project                                    | Status |   | No  | Project                                 | Status |   |
-| :-: | :----------------------------------------- | :----: | - | :-: | :---------------------------------------| :----: | - | 
-| 1   | [Libft]                                    | ✅     |   | 11  | [CPP Module 01]               | ✅      |   |  
-| 2   | [Born2beroot]                              | ✅     |   | 12  | [CPP Module 02]          | ✅      |   |
+| No  | Project                                                 | Status |   | No  | Project                                 | Status |   |
+| :-: | :------------------------------------------------------ | :----: | - | :-: | :---------------------------------------| :----: | - | 
+| 1   | [Libft](../../../42W_Core_Curriculum/tree/main/Libft)   | ✅     |   | 11  | [CPP Module 01]               | ✅      |   |  
+| 2   | Born2beroot                              | ✅     |   | 12  | [CPP Module 02]          | ✅      |   |
 | 3   | [ft_printf]                                | ✅     |   | 13  | [CPP Module 03]          | ✅      |   | 
 | 4   | [Get_Next_Line]                            | ✅     |   | 14  | [CPP Module 04]         | ✅      |   |  
 | 5   | [so_long]                                  | ✅     |   | 15  | [CPP Module 05]          | ✅      |   |   
