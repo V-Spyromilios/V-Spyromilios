@@ -13,16 +13,16 @@ iOS Developer under Development
 <br />
 
 ## 📚 42 Curriculum Progress
-| No  | Project                                                 | Status |   | No  | Project                                 | Status |   |
-| :-: | :------------------------------------------------------ | :----: | - | :-: | :---------------------------------------| :----: | - | 
-| 1   | [Libft](../../../42W_Core_Curriculum/tree/main/Libft)   | ✅     |   | 11  | [CPP Module 01]               | ✅      |   |  
-| 2   | Born2beroot                              | ✅     |   | 12  | [CPP Module 02]          | ✅      |   |
-| 3   | [ft_printf]                                | ✅     |   | 13  | [CPP Module 03]          | ✅      |   | 
-| 4   | [Get_Next_Line]                            | ✅     |   | 14  | [CPP Module 04]         | ✅      |   |  
-| 5   | [so_long]                                  | ✅     |   | 15  | [CPP Module 05]          | ✅      |   |   
-| 5   | [Pipex]                                    | ✅     |   | 16  | [CPP Module 06]         | ✅      |   |     
-| 6   | [push_swap]                                | ✅     |   | 17  | [CPP Module 07]         | ✅      |   |                   
-| 7   | [minishell]                                | ✅     |   | 18  | [CPP Module 08]        | ✅      |   |                   
+| No  | Project                                                      | Status |   | No  | Project                                 | Status |   |
+| :-: | :----------------------------------------------------------- | :----: | - | :-: | :---------------------------------------| :----: | - | 
+| 1   | [Libft](../../../42W_Core_Curriculum/tree/main/Libft)        | ✅     |   | 11  | [CPP Module 01]               | ✅      |   |  
+| 2   | Born2beroot                                                  | ✅     |   | 12  | [CPP Module 02]          | ✅      |   |
+| 3   | [ft_printf](../../../42W_Core_Curriculum/tree/main/ft_printf)| ✅     |   | 13  | [CPP Module 03]          | ✅      |   | 
+| 4   | [Get_Next_Line](../../../42W_Core_Curriculum/tree/main/Get_Next_Line) | ✅     |   | 14  | [CPP Module 04]         | ✅      |   |  
+| 5   | so_long                                                      | ✅     |   | 15  | [CPP Module 05]          | ✅      |   |   
+| 5   | [Pipex](../../../42W_Core_Curriculum/tree/main/Pipex)       | ✅     |   | 16  | [CPP Module 06]         | ✅      |   |     
+| 6   | [push_swap](../../../42W_Core_Curriculum/tree/main/Push_Swap) | ✅     |   | 17  | [CPP Module 07]         | ✅      |   |                   
+| 7   | [minishell](../../../42W_Core_Curriculum/tree/main/MiniShell) | ✅     |   | 18  | [CPP Module 08]        | ✅      |   |                   
 | 8   | [philosophers]                            | ✅     |   | 19  | NetPractice                                      | 🛠️      |   |         
 | 9   | Cub3d                                     | 🛠️     |   |     |                                                  |         |   |                   
 | 10  | [CPP Module 00]                           | ✅     |   |     |                                                  |         |   |                                   
