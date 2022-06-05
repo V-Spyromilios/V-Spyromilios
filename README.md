@@ -15,17 +15,17 @@ iOS Developer under Development
 ## 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   | No  | Project                                 | Status |   |
 | :-: | :----------------------------------------- | :----: | - | :-: | :---------------------------------------| :----: | - | 
-| 1   | [Libft](../../../42W_Core_Curriculum/Libft)               | ✅     |   | 11  | [CPP Module 01](/Cpp/Module_01)                | ✅      |   |  
-| 2   | [Born2beroot]                              | ✅     |   | 12  | [CPP Module 02](../../../Cpp/Module_02)          | ✅      |   |
-| 3   | [ft_printf](../../../42W_Core_Curriculum/ft_printf)  | ✅     |   | 13  | [CPP Module 03](../../../Cpp/Module_03)          | ✅      |   | 
-| 4   | [Get_Next_Line](../../../42W_Core_Curriculum/Get Next Line)| ✅     |   | 14  | [CPP Module 04](../../../Cpp/Module_04)          | ✅      |   |  
-| 5   | [so_long]                                   | ✅     |   | 15  | [CPP Module 05](../../../Cpp/Module_05)          | ✅      |   |   
-| 5   | [Pipex](../../../Pipex)                    | ✅     |   | 16  | [CPP Module 06](../../../Cpp/Module_06)          | ✅      |   |     
-| 6   | [push_swap](../../../Push_Swap)            | ✅     |   | 17  | [CPP Module 07](../../../Cpp/Module_07)          | ✅      |   |                   
-| 7   | [minishell](../../../Minishell)            | ✅     |   | 18  | [CPP Module 08](../../../Cpp/Module_08)          | ✅      |   |                   
-| 8   | [philosophers](../../../Philosophers)      | ✅     |   | 19  | NetPractice                                      | 🛠️      |   |         
-| 9   | Cub3d                                      | 🛠️     |   |     |                                                  |         |   |                   
-| 10  | [CPP Module 00] (../../../Cpp_Module_00)   | ✅     |   |     |                                                  |         |   |                                   
+| 1   | [Libft]                                    | ✅     |   | 11  | [CPP Module 01]               | ✅      |   |  
+| 2   | [Born2beroot]                              | ✅     |   | 12  | [CPP Module 02]          | ✅      |   |
+| 3   | [ft_printf]                                | ✅     |   | 13  | [CPP Module 03]          | ✅      |   | 
+| 4   | [Get_Next_Line]                            | ✅     |   | 14  | [CPP Module 04]         | ✅      |   |  
+| 5   | [so_long]                                  | ✅     |   | 15  | [CPP Module 05]          | ✅      |   |   
+| 5   | [Pipex]                                    | ✅     |   | 16  | [CPP Module 06]         | ✅      |   |     
+| 6   | [push_swap]                                | ✅     |   | 17  | [CPP Module 07]         | ✅      |   |                   
+| 7   | [minishell]                                | ✅     |   | 18  | [CPP Module 08]        | ✅      |   |                   
+| 8   | [philosophers]                            | ✅     |   | 19  | NetPractice                                      | 🛠️      |   |         
+| 9   | Cub3d                                     | 🛠️     |   |     |                                                  |         |   |                   
+| 10  | [CPP Module 00]                           | ✅     |   |     |                                                  |         |   |                                   
 
 <br />
 
@@ -33,7 +33,7 @@ iOS Developer under Development
 | No  | Project                                                                                                | Status |     Language    |
 | :-: | :----------------------------------------------------------------------------------------------------- | :----: | :-------------: |
 | 1   | [First App](../../../BullsEyeApp)                                                                      | 🛠️     |      Swift       |
-| 2   | [NFT Tutorial](../../../NFTs)                                                                          |   ✅   |                 |
+| 2   | [NFT Tutorial](../../../NFT-Guide)                                                                          |   ✅   |                 |
 | 3   |                                                                                                        |        |                 |
 | 4   |                                                                                                        |        |                 󠁐|
 
