@@ -15,13 +15,13 @@ iOS Developer under Development
 ## 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   | No  | Project                                 | Status |   |
 | :-: | :----------------------------------------- | :----: | - | :-: | :---------------------------------------| :----: | - | 
-| 1   | [Libft](../../../libft)                    | ✅     |   | 11  | [CPP Module 01](/Cpp/Module_01)                | ✅      |   |  
+| 1   | [Libft](../../../42W_Core_Curriculum/Libft)               | ✅     |   | 11  | [CPP Module 01](/Cpp/Module_01)                | ✅      |   |  
 | 2   | [Born2beroot]                              | ✅     |   | 12  | [CPP Module 02](../../../Cpp/Module_02)          | ✅      |   |
-| 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 13  | [CPP Module 03](../../../Cpp/Module_03)          | ✅      |   | 
-| 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 14  | [CPP Module 04](../../../Cpp/Module_04)          | ✅      |   |  
-| 5   | [so_long](../../../so_long)                | ✅     |   | 15  | [CPP Module 05](../../../Cpp/Module_05)          | ✅      |   |   
-| 5   | [Pipex](../../../Pipex_MiniShell)          | ✅     |   | 16  | [CPP Module 06](../../../Cpp/Module_06)          | ✅      |   |     
-| 6   | [push_swap](../../../push_swap)            | ✅     |   | 17  | [CPP Module 07](../../../Cpp/Module_07)          | ✅      |   |                   
+| 3   | [ft_printf](../../../42W_Core_Curriculum/ft_printf)  | ✅     |   | 13  | [CPP Module 03](../../../Cpp/Module_03)          | ✅      |   | 
+| 4   | [Get_Next_Line](../../../42W_Core_Curriculum/Get Next Line)| ✅     |   | 14  | [CPP Module 04](../../../Cpp/Module_04)          | ✅      |   |  
+| 5   | [so_long]                                   | ✅     |   | 15  | [CPP Module 05](../../../Cpp/Module_05)          | ✅      |   |   
+| 5   | [Pipex](../../../Pipex)                    | ✅     |   | 16  | [CPP Module 06](../../../Cpp/Module_06)          | ✅      |   |     
+| 6   | [push_swap](../../../Push_Swap)            | ✅     |   | 17  | [CPP Module 07](../../../Cpp/Module_07)          | ✅      |   |                   
 | 7   | [minishell](../../../Minishell)            | ✅     |   | 18  | [CPP Module 08](../../../Cpp/Module_08)          | ✅      |   |                   
 | 8   | [philosophers](../../../Philosophers)      | ✅     |   | 19  | NetPractice                                      | 🛠️      |   |         
 | 9   | Cub3d                                      | 🛠️     |   |     |                                                  |         |   |                   
