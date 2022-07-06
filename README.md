@@ -20,7 +20,7 @@
 | 6   | [push_swap](../../../42W_Core_Curriculum/tree/main/Push_Swap) | ✅     |   | 17  | [CPP Module 07](../../../Cpp/tree/main/Module_07)          | ✅      |   |                   
 | 7   | [minishell](../../../42W_Core_Curriculum/tree/main/MiniShell) | ✅     |   | 18  | [CPP Module 08](../../../Cpp/tree/main/Module_08)        | ✅      |   |                   
 | 8   | [philosophers](../../../42W_Core_Curriculum/tree/main/Philosophers) | ✅     |   | 19  | NetPractice                                      | 🛠️      |   |         
-| 9   | Cub3d                                     | 🛠️     |   |     |                                                  |         |   |                   
+| 9   | [Cub3d](../../../42W_Core_Curriculum/tree/main/Cub3D)            | ✅     |   |     |                                                  |         |   |                   
 | 10  | [CPP Module 00](../../../Cpp/tree/main/Module_00)           | ✅     |   |     |                                                  |         |   |                                   
 
 <br />
