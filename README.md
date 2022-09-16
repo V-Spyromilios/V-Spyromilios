@@ -29,7 +29,8 @@
 | No  | Project                                                                                                | Status |     Language    |
 | :-: | :----------------------------------------------------------------------------------------------------- | :----: | :-------------: |
 | 1   | [First App](../../../BullsEyeApp)                                                                      | 🛠️     |      Swift       |
-| 2   | [NFT Tutorial](../../../NFT-Guide)                                                                     |   ✅   |   Solidity /JS   |
+| 2   | [Booky](../../../Booky-App)                                                                            | 🛠️     |      Swift       |
+| 3   | [NFT Tutorial](../../../NFT-Guide)                                                                     |   ✅   |   Solidity /JS   |
 
 
 <br />
