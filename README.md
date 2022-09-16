@@ -1,6 +1,6 @@
 
-##  :man_technologist: Mission:
-### iOS Developer under Development
+
+## iOS Developer under Development
 
 <br />
 
