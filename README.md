@@ -1,12 +1,14 @@
 
 
-## Developer under Development
+## iOS -> Embedded Rust
+## Mnimi App
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/mnimiapp/id6482981941)
 
-<br />
 
-</a>
-
-<br />
+## SEA:ME projects
+| No  | Project                                                      | Status |
+| :-: | :----------------------------------------------------------- | :----: |
+| 1   | [Warm Up!](../../../SEA-ME-Modules)        | 🚧     |
 
 ## 📚 42 Curriculum Progress
 | No  | Project                                                      | Status |   | No  | Project                                 | Status |   |
